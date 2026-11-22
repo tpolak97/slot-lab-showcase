@@ -1,0 +1,15 @@
+{
+  "game": "Ashes of Edo",
+  "mode": "base",
+  "seed": 42,
+  "event_diagnostic": {
+    "status": "completed",
+    "audited_rounds": 10000
+  },
+  "export_audit": {
+    "status": "passed",
+    "audited_outcomes": 100000
+  },
+  "expected_rtp_fraction": "967/1000",
+  "observed_sample_rtp": 0.84417
+}
